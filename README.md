@@ -8,7 +8,7 @@ Useful skills I've personally used
 4. Waza: https://github.com/tw93/Waza
 
 # UI
-1. [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+1. awesome-design-md：https://github.com/VoltAgent/awesome-design-md
 
 # PPT
 1. [Guizang PPT Skill · 网页 PPT / 配图 / 封面](https://github.com/op7418/guizang-ppt-skill)
